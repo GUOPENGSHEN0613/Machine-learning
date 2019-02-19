@@ -1,9 +1,8 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
+'''
+Created on Feb 19, 2019
+KNN with handwriting
+@author: Xiao yuege
+'''
 from numpy import *
 import operator
 from os import listdir
