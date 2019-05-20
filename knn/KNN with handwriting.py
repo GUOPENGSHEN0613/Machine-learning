@@ -1,7 +1,7 @@
 '''
 Created on Feb 19, 2019
 KNN with handwriting
-@author: Xiao yuege
+@author: Xiaoyuege
 '''
 from numpy import *
 import operator
